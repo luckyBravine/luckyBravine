@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Working towards becoming a better progrommer one code at a time.
 <!--
 **luckyBravine/luckyBravine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
